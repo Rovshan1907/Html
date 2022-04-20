@@ -1,0 +1,27 @@
+h1 {
+    font-size: 30px;
+    color: white;
+    
+}
+p{
+    font-size: 30px;
+    background-color: yellow;
+}
+button{
+    font-size: 30px;
+    border-radius: 25%;
+    size: 25px;
+    background-color: bisque;
+}
+.form{
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(235,244,48,1) 50%, rgba(0,29,255,1) 100%);
+
+    display: block;
+    border: solid;
+}
+img{
+    height: 100px;
+    width: 100px;
+    margin: 100px 500px 0px 900px;
+}
